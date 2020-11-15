@@ -8,6 +8,7 @@
 #makingindiafutureready
 #righeudcation
 #arthbylw
+
 Automating LVM Partition using Python-Script
 ![1](https://user-images.githubusercontent.com/69908356/99190248-8168d280-278b-11eb-8904-5eee6ada91d8.jpg)
 ![2](https://user-images.githubusercontent.com/69908356/99190247-80d03c00-278b-11eb-9c0b-abd244f787b1.jpg)
