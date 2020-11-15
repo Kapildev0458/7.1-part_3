@@ -1,21 +1,5 @@
 # 7.1-part_3
-#vimaldaga
-
-#righteducation
-
-#educationredefine
-
-#rightmentor
-
-#worldrecordholder
-
-#linuxworld
-
-#makingindiafutureready
-
-#righeudcation
-
-#arthbylw
+# #vimaldaga #righteducation #educationredefine #rightmentor #worldrecordholder #linuxworld #makingindiafutureready #righeudcation #arthbylw
 
 Automating LVM Partition using Python-Script
 
